@@ -34,7 +34,7 @@ Rules: You must use a parallel stream for every method, And create a new thread 
 ![109812](assets/slide-5-2636429522.jpg)
 
 ![image-12](https://user-images.githubusercontent.com/67660019/122412556-f4d2fc80-cf85-11eb-8caf-61e45eb0a5d7.jpg)
-
+![image](assets/image_1794252872869.png)
 ![images](https://user-images.githubusercontent.com/67660019/122412591-fd2b3780-cf85-11eb-9f8d-250ae94d7c02.png)
 
 ![image](assets/photo_2025-08-11_22-13-09.jpg)
